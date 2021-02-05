@@ -1,0 +1,17 @@
+let spark = 'boom!';
+
+let year = 2021;
+
+let isStudent = true;
+
+let differentSubjects = ['Math','Biology','English','Spanish']
+
+let Baymax = {
+    name: 'Baymax',
+    age = 4,
+    Effectiveness = '100',
+}
+
+const name = 'Jose Correa';
+
+const Intro = `Hello ${name}, welcome back.`
